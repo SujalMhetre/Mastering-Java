@@ -1,4 +1,4 @@
-package variables;
+package chapter01_variables;
 
 public class VariablesBasic {
     public static void main(String[] args) {

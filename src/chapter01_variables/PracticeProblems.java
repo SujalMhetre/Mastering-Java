@@ -1,4 +1,4 @@
-package variables;
+package chapter01_variables;
 
 import java.util.Scanner;
 

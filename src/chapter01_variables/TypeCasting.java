@@ -1,4 +1,4 @@
-package variables;
+package chapter01_variables;
 
 public class TypeCasting {
     static void main(String[] args) {
