@@ -15,7 +15,7 @@ Each folder represents a topic:
 
 - `Chapter-01` — Introduction,
 - `Chapter-02` — Variables, Data Types, I/O 
-- `Chapter-02` — Coming soon!!
+- `Chapter-03` — Operators & Expressions 
 ---
 
 ## 🧠 Learning Goals
