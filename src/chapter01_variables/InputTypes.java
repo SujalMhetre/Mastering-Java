@@ -8,21 +8,23 @@ public class InputTypes {
         float height;
         char gender;
 
-        Scanner sc =new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your Age :");
-         age = sc.nextInt();
+        age = sc.nextInt();
 
         System.out.println("Enter your Height :");
-        height=sc.nextFloat();
+        height = sc.nextFloat();
 
         System.out.println("Enter your Gender 'M' for Male and 'F' for Female :");
         gender = sc.next().charAt(0);
 
         System.out.println("--------Output-------");
 
-        System.out.println("Age :"+age);
-        System.out.println("Height :"+height);
-        System.out.println("Gender :"+gender);
+        System.out.println("Age :" + age);
+        System.out.println("Height :" + height);
+        System.out.println("Gender :" + gender);
+
+        sc.close();
     }
 }

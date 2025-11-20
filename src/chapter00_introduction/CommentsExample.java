@@ -6,10 +6,10 @@ public class CommentsExample {
         System.out.println("Single-line comment example");
 
         /*
-         This is a multi-line comment
-         It can span many lines
-         Useful for explaining logic
-        */
+         * This is a multi-line comment
+         * It can span many lines
+         * Useful for explaining logic
+         */
         System.out.println("Multi-line comment example");
 
         /**

@@ -8,11 +8,10 @@ public class VariablesBasic {
         float height = 176.5F;
         boolean isAdult = true;
 
-
-        System.out.println("Name ="+name);
-        System.out.println("Age ="+age);
-        System.out.println("Gender ="+gender);
-        System.out.println("Height ="+height+"cm");
-        System.out.println("Is he Adult ="+isAdult);
+        System.out.println("Name =" + name);
+        System.out.println("Age =" + age);
+        System.out.println("Gender =" + gender);
+        System.out.println("Height =" + height + "cm");
+        System.out.println("Is he Adult =" + isAdult);
     }
 }
