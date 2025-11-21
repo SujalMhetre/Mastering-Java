@@ -13,9 +13,11 @@ It serves as a personal learning log and a reference for anyone beginning their 
 ## 📂 Structure
 Each folder represents a topic:
 
-- `Chapter-01` — Introduction,
-- `Chapter-02` — Variables, Data Types, I/O 
-- `Chapter-03` — Operators & Expressions 
+- `Chapter-00` — Introduction,
+- `Chapter-01` — Variables, Data Types, I/O 
+- `Chapter-02` — Operators & Expressions 
+- `Chapter-03` — Strings 
+- `Chapter-04` — Controlflow Statements
 ---
 
 ## 🧠 Learning Goals
