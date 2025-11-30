@@ -18,6 +18,7 @@ Each folder represents a topic:
 - `Chapter-02` — Operators & Expressions 
 - `Chapter-03` — Strings 
 - `Chapter-04` — Controlflow Statements
+- `Chapter-05` — Loops
 ---
 
 ## 🧠 Learning Goals
