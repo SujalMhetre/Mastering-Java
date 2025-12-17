@@ -17,8 +17,14 @@ Each folder represents a topic:
 - `Chapter-01` — Variables, Data Types, I/O 
 - `Chapter-02` — Operators & Expressions 
 - `Chapter-03` — Strings 
-- `Chapter-04` — Controlflow Statements
+- `Chapter-04` — Control Flow Statements
 - `Chapter-05` — Loops
+- `Chapter-06` — Methods & Recursion
+- `Chapter-07` — Arrays
+- `Chapter-08` — Object-Oriented Programming (OOP)
+  ├── 08.1-Classes-and-Objects
+  └── 08.2-Constructors
+
 ---
 
 ## 🧠 Learning Goals

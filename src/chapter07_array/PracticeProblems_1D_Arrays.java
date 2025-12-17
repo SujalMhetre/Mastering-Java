@@ -1,4 +1,4 @@
-package Chapter07_array;
+package chapter07_array;
 
 public class PracticeProblems_1D_Arrays {
     public static void main(String[] args) {

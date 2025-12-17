@@ -1,4 +1,4 @@
-package Chapter07_array;
+package chapter07_array;
 
 import java.util.Scanner;
 
