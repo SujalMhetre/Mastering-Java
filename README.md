@@ -6,7 +6,7 @@ A collection of Java programs and exercises documenting my journey of learning t
 
 ## 📘 About
 This repository contains structured code examples, practice exercises, and small projects written in Java.  
-It serves as a personal learning log and a reference for anyone beginning their Java programming journe.
+It serves as a personal learning log and a reference for anyone beginning their Java programming journey.
 
 ---
 
