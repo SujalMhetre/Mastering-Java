@@ -24,6 +24,7 @@ Each folder represents a topic:
 - `Chapter-08` — Object-Oriented Programming (OOP)
   ├── 08.1-Classes-and-Objects
   └── 08.2-Constructors
+  └── 08.3-Inheritance
 
 ---
 
