@@ -14,7 +14,7 @@ public class Rock_Paper_Scissors_Game {
 
         int comp = (int) (Math.random() * 3) + 1;
 
-        System.out.println("Your choosed =" + player);
+        System.out.println("You choosed =" + player);
         System.out.println("Computer choosed =" + comp);
 
         if (player >= 1 && player < 4) {
