@@ -1,4 +1,4 @@
-package chapter08_0bject_oriented_programming.aggregation_composition.problem_01_aggregation;
+package chapter08_0bject_oriented_programming.aggregation_composition.problem_01_aggregation_basic;
 
 public class Department {
     int departmentID;

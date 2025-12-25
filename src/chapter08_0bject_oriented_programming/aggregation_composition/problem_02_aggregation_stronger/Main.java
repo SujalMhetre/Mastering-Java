@@ -1,4 +1,4 @@
-package chapter08_0bject_oriented_programming.aggregation_composition.problem_02_aggregation_level1;
+package chapter08_0bject_oriented_programming.aggregation_composition.problem_02_aggregation_stronger;
 
 public class Main {
     public static void main(String[] args) {
