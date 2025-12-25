@@ -24,10 +24,15 @@ Each folder represents a topic:
 - `Chapter-08` — Object-Oriented Programming (OOP)
   ├── 08.1-Classes-and-Objects
   └── 08.2-Constructors
-  └── 08.3-Inheritancel̥
+  └── 08.3-Inheritance
   └── 08.4-Abstraction-and-Interfaces
   └── 08.5-Polymorphism
-
+  └── 08.6-Encapsulation
+  └── 08.7-Aggregation & Composition
+-`Chapter-09` — Wrapper Classes
+-`Chapter-10` — Collections
+  ├── 10.1-ArrayList
+-`Chapter-11` — Exception Handling
 ---
 
 ## 🧠 Learning Goals
