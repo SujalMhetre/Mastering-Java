@@ -21,17 +21,17 @@ Each folder represents a topic:
 - `Chapter-05` — Loops
 - `Chapter-06` — Methods & Recursion
 - `Chapter-07` — Arrays
-- `Chapter-08` — Object-Oriented Programming (OOP)
-  ├── 08.1-Classes-and-Objects
-  └── 08.2-Constructors
-  └── 08.3-Inheritance
-  └── 08.4-Abstraction-and-Interfaces
-  └── 08.5-Polymorphism
-  └── 08.6-Encapsulation
-  └── 08.7-Aggregation & Composition
--`Chapter-09` — Wrapper Classes
--`Chapter-10` — Collections
-  ├── 10.1-ArrayList
+- `Chapter-08` — Object-Oriented Programming (OOP)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.1 Classes & Objects <br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.2 Constructors <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.3 Inheritance <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.4 Abstraction & Interfaces <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.5 Polymorphism  <br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.6 Encapsulation <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 08.7 Aggregation & Composition <br>
+-`Chapter-09` — Wrapper Classes<br>
+-`Chapter-10` — Collections<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 10.1-ArrayList1 <br>
 -`Chapter-11` — Exception Handling
 ---
 
