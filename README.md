@@ -31,7 +31,7 @@ Each folder represents a topic:
  &nbsp;&nbsp;&nbsp;&nbsp;• 08.7 Aggregation & Composition <br>
 -`Chapter-09` — Wrapper Classes<br>
 -`Chapter-10` — Collections<br>
- &nbsp;&nbsp;&nbsp;&nbsp;• 10.1-ArrayList1 <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;• 10.1-ArrayList <br>
 -`Chapter-11` — Exception Handling
 ---
 
