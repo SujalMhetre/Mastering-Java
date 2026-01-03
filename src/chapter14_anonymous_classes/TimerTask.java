@@ -1,15 +1,13 @@
 package chapter14_anonymous_classes;
 
 import java.util.Timer;
-import java.util.TimerTask;
 
-public class Main {
+public class TimerTask {
     public static void main(String[] args) {
-
 
         Timer timer = new Timer();
 
-        TimerTask task = new TimerTask() {
+        java.util.TimerTask task = new java.util.TimerTask() {
 
             int count = 3;
 
